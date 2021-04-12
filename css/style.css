@@ -1257,3 +1257,10 @@ textarea:focus {
         width: 80%;
     }
 }
+
+@media screen and (max-width: 767px) and (min-width: 517px) {
+    .work-col-6 {
+        width: 50%;
+    }
+
+}
